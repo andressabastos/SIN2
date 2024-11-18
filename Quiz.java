@@ -45,7 +45,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("5-Andressa Urach ficou conhecida por ficar em segundo lugar num famoso concurso. Qual o nome desse concurso?", "A) Miss Bumbum", "B) Miss Universo", "C) Miss Brasil", "D) Mr. Olympia", "E) Sistema", "A"));
 
-        questoes.add(criarQuestao("6-Qual é o elemento químico representado pela letra 'O'?", "A) Ouro", "B) Oxigênio", "C) Ósmio", "D) Oxido", "E) Ozone", "B"));
+        questoes.add(criarQuestao("6-Qual o nome de Guerra da vice miss bumbum Andressa Urach?", "A) Safira", "B) Ímola", "C) Atenas", "D) Sabrina", "E) Andressa", "B"));
 
         questoes.add(criarQuestao("7-Qual é a principal fonte de energia para a Terra?", "A) Vento", "B) Sol", "C) Água", "D) Geotérmica", "E) Nuclear", "B"));
 
