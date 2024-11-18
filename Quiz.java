@@ -35,7 +35,7 @@ public class Quiz {
 
     private static void criarQuestões(List<Questao> questoes) {
 
-        questoes.add(criarQuestao("Qual foi o namoro mais polêmico de Selena Gomez?", "A) Justin Bieber", "B) The Weeknd", "C) Benny Blanco", "D) Nick Jonas", "E) Taylor Lautner", "A"));
+        questoes.add(criarQuestao("1-Qual foi o namoro mais polêmico de Selena Gomez?", "A) Justin Bieber", "B) The Weeknd", "C) Benny Blanco", "D) Nick Jonas", "E) Taylor Lautner", "A"));
 
         questoes.add(criarQuestao("Quantos Grammys Taylor Swift já ganhou?", "A) 10", "B) 14", "C) 15", "D) 13", "E) 20", "B"));
 
