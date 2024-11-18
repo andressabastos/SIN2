@@ -49,7 +49,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("7-Qual foi a atriz brasileira indicada ao Oscar?", "A) Fernanda Torres", "B) Fernanda Montenegro", "C) Fernanda Vasconcelos", "D) Maria Fernanda Candido", "E) Fernanda Alves", "B"));
 
-        questoes.add(criarQuestao("8-Qual é o gás mais abundante na atmosfera da Terra?", "A) Oxigênio", "B) Hidrogênio", "C) Nitrogênio", "D) Dióxido de carbono", "E) Metano", "C"));
+        questoes.add(criarQuestao("8-A irmã do ex BBB Davi participou do reality show a Fazenda, qual o seu nome?", "A) Yotra", "B) Alicia", "C) Raquel Brito", "D) Juliana Bonde", "E) Chinesa", "C"));
 
         questoes.add(criarQuestao("9-O que é um ecossistema?", "A) Comunidade de organismos interagindo com seu ambiente", "B) Uma só espécie de planta", "C) Um habitat aquático", "D) Uma cadeia alimentar", "E) Um grupo de células", "A"));
 
