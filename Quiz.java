@@ -47,7 +47,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("6-Qual o nome de Guerra da vice miss bumbum Andressa Urach?", "A) Safira", "B) Ímola", "C) Atenas", "D) Sabrina", "E) Andressa", "B"));
 
-        questoes.add(criarQuestao("7-Qual é a principal fonte de energia para a Terra?", "A) Vento", "B) Sol", "C) Água", "D) Geotérmica", "E) Nuclear", "B"));
+        questoes.add(criarQuestao("7-Qual foi a atriz brasileira indicada ao Oscar?", "A) Fernanda Torres", "B) Fernanda Montenegro", "C) Fernanda Vasconcelos", "D) Maria Fernanda Candido", "E) Fernanda Alves", "B"));
 
         questoes.add(criarQuestao("8-Qual é o gás mais abundante na atmosfera da Terra?", "A) Oxigênio", "B) Hidrogênio", "C) Nitrogênio", "D) Dióxido de carbono", "E) Metano", "C"));
 
