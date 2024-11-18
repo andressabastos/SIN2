@@ -51,7 +51,7 @@ public class Quiz {
 
         questoes.add(criarQuestao("8-A irmã do ex BBB Davi participou do reality show a Fazenda, qual o seu nome?", "A) Yotra", "B) Alicia", "C) Raquel Brito", "D) Juliana Bonde", "E) Chinesa", "C"));
 
-        questoes.add(criarQuestao("9-O que é um ecossistema?", "A) Comunidade de organismos interagindo com seu ambiente", "B) Uma só espécie de planta", "C) Um habitat aquático", "D) Uma cadeia alimentar", "E) Um grupo de células", "A"));
+        questoes.add(criarQuestao("9-Qual o nome do atual namorado da Taylor", "A) Joe Jonas", "B) Joe Alwyn", "C) Jonh Mayer", "D) Travis Kelce", "E) Jonh Kenedy", "D"));
 
         questoes.add(criarQuestao("10-Qual é o processo pelo qual as plantas liberam vapor de água?", "A) Transpiração", "B) Evaporação", "C) Condensação", "D) Precipitação", "E) Sublimação", "A"));
 
