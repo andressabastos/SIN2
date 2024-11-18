@@ -59,9 +59,9 @@ public class Quiz {
 
         questoes.add(criarQuestao("12-Qual Jonas Brothers namorou a cantora Demi Lovato", "A) Nick Jonas", "B) Joe Jonas", "C) Kevin Jonas", "D) Todos", "E) Nenhum", "B"));
 
-        questoes.add(criarQuestao("13-?", "A) Organismo que consome outros seres vivos", "B) Organismo que produz seu próprio alimento", "C) Organismo que não pode viver fora da água", "D) Organismo que vive em simbiose", "E) Organismo que se adapta ao ambiente", "B"));
+        questoes.add(criarQuestao("13-Qual o nome da segunda filha da influencer digitial Virginia?", "A) Maria Alice", "B) Maria Flor", "C) Maria Elisa", "D) Maria José", "E) Maria Virginia", "B"));
 
-        questoes.add(criarQuestao("14-Qual é o principal componente do sangue responsável pelo transporte de oxigênio?", "A) Plasma", "B) Glóbulos brancos", "C) Glóbulos vermelhos", "D) Plaquetas", "E) Fibrinogênio", "C"));
+        questoes.add(criarQuestao("14-Qual ?", "A) Plasma", "B) Glóbulos brancos", "C) Glóbulos vermelhos", "D) Plaquetas", "E) Fibrinogênio", "C"));
 
         questoes.add(criarQuestao("15-Qual é o ciclo da água?", "A) Processo de poluição da água", "B) Movimento contínuo da água na Terra", "C) Filtração da água", "D) Tratamento da água", "E) Aumento do nível do mar", "B"));
     }
