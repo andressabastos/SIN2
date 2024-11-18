@@ -53,13 +53,13 @@ public class Quiz {
 
         questoes.add(criarQuestao("9-Qual o nome do atual namorado da Taylor Swift", "A) Joe Jonas", "B) Joe Alwyn", "C) Jonh Mayer", "D) Travis Kelce", "E) Jonh Kenedy", "D"));
 
-        questoes.add(criarQuestao("10-Qual é o processo pelo qual as plantas liberam vapor de água?", "A) Transpiração", "B) Evaporação", "C) Condensação", "D) Precipitação", "E) Sublimação", "A"));
+        questoes.add(criarQuestao("10-Nome da marca de maquiagem da cantora Selena Gomes?", "A) Rare Beauty", "B) Fenty Beauty", "C) Rhode", "D) Ruby Kisses", "E) Bauny", "A"));
 
-        questoes.add(criarQuestao("11-Quem propôs a teoria da evolução das espécies?", "A) Isaac Newton", "B) Albert Einstein", "C) Charles Darwin", "D) Nikola Tesla", "E) Galileo Galilei", "C"));
+        questoes.add(criarQuestao("11-Qual a decendência da cantora Selena Gomes?", "A) México", "B) Espanha", "C) Porto Rico", "D) Argentina", "E) Portugal", "A"));
 
-        questoes.add(criarQuestao("12-Qual é a camada mais externa da Terra?", "A) Núcleo", "B) Manto", "C) Crosta", "D) Atmosfera", "E) Hidrosfera", "C"));
+        questoes.add(criarQuestao("12-Qual Jonas Brothers namorou a cantora Demi Lovato", "A) Nick Jonas", "B) Joe Jonas", "C) Kevin Jonas", "D) Todos", "E) Nenhum", "B"));
 
-        questoes.add(criarQuestao("13-O que é um organismo autotrófico?", "A) Organismo que consome outros seres vivos", "B) Organismo que produz seu próprio alimento", "C) Organismo que não pode viver fora da água", "D) Organismo que vive em simbiose", "E) Organismo que se adapta ao ambiente", "B"));
+        questoes.add(criarQuestao("13-?", "A) Organismo que consome outros seres vivos", "B) Organismo que produz seu próprio alimento", "C) Organismo que não pode viver fora da água", "D) Organismo que vive em simbiose", "E) Organismo que se adapta ao ambiente", "B"));
 
         questoes.add(criarQuestao("14-Qual é o principal componente do sangue responsável pelo transporte de oxigênio?", "A) Plasma", "B) Glóbulos brancos", "C) Glóbulos vermelhos", "D) Plaquetas", "E) Fibrinogênio", "C"));
 
